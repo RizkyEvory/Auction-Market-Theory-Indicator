@@ -1,4 +1,4 @@
-```markdown
+
 # 🎯 M4DI~UciH4 Auction Profile Indicator
 
 <div align="center">
@@ -695,5 +695,4 @@ SOFTWARE.
 **Happy Trading! 📈**
 
 </div>
-```
 
